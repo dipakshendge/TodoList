@@ -1,0 +1,10 @@
+
+body{
+    background-color: rgb(148, 207, 226);
+}
+.border1{
+    margin-top: 5px;
+    border: 2px solid orange;
+    color: white !important;
+    font-family: 'Times New Roman', Times, serif;
+}
